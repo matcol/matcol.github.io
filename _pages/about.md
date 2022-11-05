@@ -14,7 +14,7 @@ I am [Ph.D. candidate in finance](https://www.bwl.uni-mannheim.de/en/maug/team/m
 **I am on the Job Market in 2022/2023 and available for interviews.**
 
 
-[Click here for my Job Market Paper.]((/files/JMP.pdf))
+[Click here for my Job Market Paper.](/files/JMP.pdf)
 
 
 **Research interests:**
