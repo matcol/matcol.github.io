@@ -19,7 +19,7 @@ author_profile: true
 
 <p class="text-justify">We investigate how common ownership between lenders affects the terms of syndicated loans. We provide a novel view on the role of common ownership in mitigating information asymmetries on the quality of borrowers and the resulting contractual distortions in the terms of the loan. Our empirical evidence shows that high common ownership decreases loan rates, lowers the share of the loan retained by the lead bank, and mitigates rationing at issuance. Further investigations lend support to the hypothesis that common ownership serves as a device for information transmission: common ownership especially affects the terms of loans for new borrowers, when the lead arranger is likely to hold an informational advantage. As information flows from the lead arranger to syndicate members, we show that member-to-lead and member-to-member common ownership does not affect the terms of syndicated loans.</p>
 
-<font size="-0.5"><b>Presentations:</b> Finance Brownbag (Mannheim), MaCCI (Mannheim)*, CRC (Mannheim)\*, EIEF (Rome)\*, HEC (Paris)*, NHH (Bergen)*, IIOC*, Montreal*, CLEEN*, Leuven*, Ca’ Foscari (Venice)*, CSEF (Naples)*, LUISS (Rome)*, Católica (Porto)*, and Università di Bolzano* </font>
+<font size="-0.5"><b>Presentations:(* by a co-author)</b> Finance Brownbag (Mannheim), MaCCI (Mannheim)*, CRC (Mannheim)*, EIEF (Rome)*, HEC (Paris)*, NHH (Bergen)*, IIOC*, Montreal*, CLEEN*, Leuven*, Ca’ Foscari (Venice)*, CSEF (Naples)*, LUISS (Rome)*, Católica (Porto)*, and Università di Bolzano* </font>
 
 ## Work in Progress
 ---------
