@@ -13,7 +13,7 @@ author_profile: true
 
 <font size="-0.5"><b>Presentations:</b> Finance Brownbag (Mannheim), ECOBUS online seminar </font>
 
-## [Credit Conditions when Lenders are Commonly Ownerd](https://lauragrig.github.io/website/ColomboGrigolonTarantinoCreditConditionswhenLendersAreCommonlyOwned.pdf) (with [Laura Grigolon](https://sites.google.com/site/lauragrig/home) and [Emanuele Tarantino](https://sites.google.com/site/etarantino/))
+## [Credit Conditions when Lenders are Commonly Owned](https://lauragrig.github.io/website/ColomboGrigolonTarantinoCreditConditionswhenLendersAreCommonlyOwned.pdf) (with [Laura Grigolon](https://sites.google.com/site/lauragrig/home) and [Emanuele Tarantino](https://sites.google.com/site/etarantino/))
 
 ---------
 
