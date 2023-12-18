@@ -10,7 +10,7 @@ redirect_from:
 ---
 I am an Assistant Professor of Finance in the Business Economics Department at ESE Rotterdam.
 
-I received my Ph.D. in Finance at the University of Mannheim in September 2023.
+I received my Ph.D. in Finance from the University of Mannheim in September 2023.
 
 
 **Research interests:**
