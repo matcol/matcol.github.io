@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mattia Colombo"
 title_separator          : "-"
 name                     : &name "Mattia Colombo"
-description              : &description "Ph.D. Candidate in Finance"
+description              : &description "Assistant Professor in Finance"
 url                      : https://matcol.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/matcol.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Mattia Colombo"
   avatar           : "Colombo_3301_web_kglueckler.png"
-  bio              : "Ph.D. Candidate in Finance"
-  location         : "University of Mannheim"
+  bio              : "Assistant Professor of Finance"
+  location         : "Erasmus School of Economics"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "colombo@ese.eur.nl"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 
 ---
-I am [Ph.D. candidate in finance](https://www.bwl.uni-mannheim.de/en/maug/team/mattia-colombo/) at the [University of Mannheim](https://www.uni-mannheim.de/en/). In September 2023, I will join the Business Economics Department at ESE Rotterdam as an Assistant Professor in Finance.
+I am an Assistant Professor of Finance in the Business Economics Department at ESE Rotterdam.
 
-
-[Click here for my Job Market Paper.](/files/JMP.pdf)
+I received my Ph.D. in Finance at the University of Mannheim in September 2023.
 
 
 **Research interests:**
