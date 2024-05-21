@@ -24,6 +24,6 @@ author_profile: true
 ## Work in Progress
 ---------
 
-**Who gains when pushing the rope? Evidence from the CSPP Program** (with Marc Gabarro)
+**Early Life Conditions, Time Preferences, and Savings** (with [Effrosyni Adamopoulou](https://sites.google.com/site/efiadamopoulou/home) and [Eleftheria Triviza](https://sites.google.com/site/eleftheriatrivizaecon/home))
 
 **Innovation Adoption: Quality Shock Effect on Mobile Internet Demand** (with [Helena Perrone](https://sites.google.com/site/helenaperrone2/) and [Eleftheria Triviza](https://sites.google.com/site/eleftheriatrivizaecon/home))
