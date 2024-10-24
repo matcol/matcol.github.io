@@ -14,11 +14,10 @@ author_profile: true
 
 ### [Credit Conditions when Lenders are Commonly Owned](/files/ColomboGrigolonTarantino_CreditConditionsWhenLendersAreCommonlyOwned.pdf) (with [Laura Grigolon](https://sites.google.com/site/lauragrig/home) and [Emanuele Tarantino](https://sites.google.com/site/etarantino/))
 
-_Revise and resubmit, Journal of the European Economic Association_
+<p class="text-justify"> _Revise and resubmit, Journal of the European Economic Association_ </p>
 ---------
 
-<p class="text-justify">We investigate how common ownership between lenders affects the terms of syndicated loans. We provide a novel view on the role of common ownership in mitigating information asymmetries on the quality of borrowers and the contractual distortions of lending conditions. We empirically show that high levels of common ownership lower the rates and the shares of the loans retained by the lead bank, and mitigate rationing at issuance. We use a novel exclusion restriction based on deposit multimarket contact to identify the effect of common ownership on loan pricing after
-accounting for its impact on lenders’ participation in the syndicate.</p>
+<p class="text-justify">We investigate how common ownership between lenders affects the terms of syndicated loans. We provide a novel view on the role of common ownership in mitigating information asymmetries on the quality of borrowers and the contractual distortions of lending conditions. We empirically show that high levels of common ownership lower the rates and the shares of the loans retained by the lead bank, and mitigate rationing at issuance. We use a novel exclusion restriction based on deposit multimarket contact to identify the effect of common ownership on loan pricing after accounting for its impact on lenders’ participation in the syndicate.</p>
 
 
 ### [Early Life Conditions, Time Preferences, and Savings](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4912705) (with [Effrosyni Adamopoulou](https://sites.google.com/site/efiadamopoulou/home) and [Eleftheria Triviza](https://sites.google.com/site/eleftheriatrivizaecon/home))
