@@ -5,11 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-### [Board Connections and Competition in Airline Markets](/files/JMP.pdf)
+ [Board Connections and Competition in Airline Markets](/files/JMP.pdf)
 I investigate the effects of board connections on coordination among U.S. legacy airlines. I focus on connections caused by airline directors' appointments to the board of third, non-competing firms. These connections do not arise from changes to airlines’ boards, and are arguably unrelated to airlines’ current and future economic prospects. In my baseline specification, I find a reduction of 2.5% in offered seats when all legacy airlines in a market are board-connected. Consistent with an anti-competitive effect, board connections are associated with an average increase of 3.7% in ticket fares. I provide evidence on director networks enabling tacit coordination among competing firms, even when direct interlocks are not allowed.
 
 
-### [Credit Conditions when Lenders are Commonly Owned](/files/ColomboGrigolonTarantino_CreditConditionsWhenLendersAreCommonlyOwned.pdf) (with [Laura Grigolon](https://sites.google.com/site/lauragrig/home) and [Emanuele Tarantino](https://sites.google.com/site/etarantino/))
+### [Credit Conditions when Lenders are Commonly Owned](/files/ColomboGrigolonTarantino_CreditConditionsWhenLendersAreCommonlyOwned.pdf) ### (with [Laura Grigolon](https://sites.google.com/site/lauragrig/home) and [Emanuele Tarantino](https://sites.google.com/site/etarantino/))
 
 _Revise and resubmit, Journal of the European Economic Association_
 <p class="text-justify">We investigate how common ownership between lenders affects the terms of syndicated loans. We provide a novel view on the role of common ownership in mitigating information asymmetries on the quality of borrowers and the contractual distortions of lending conditions. We empirically show that high levels of common ownership lower the rates and the shares of the loans retained by the lead bank, and mitigate rationing at issuance. We use a novel exclusion restriction based on deposit multimarket contact to identify the effect of common ownership on loan pricing after accounting for its impact on lenders’ participation in the syndicate.</p>
